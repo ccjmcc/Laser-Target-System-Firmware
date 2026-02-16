@@ -1,0 +1,14 @@
+# C++ and Arduino build artifacts
+.vscode/
+.PIO/
+.pio/
+build/
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+*.log
+# OS files
+.DS_Store
+Thumbs.db
