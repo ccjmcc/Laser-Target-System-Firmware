@@ -4,19 +4,19 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![TwinsGlow](https://img.shields.io/badge/Hardware-TwinsGlow_Certified-orange.svg)](https://twinsglow.com)
+[![TwinsGlow](https://img.shields.io/badge/Hardware-TwinsGlow_Certified-orange.svg)](https://www.twinsglow.com)
 
 ## 📖 About
 **OpenLTS (Laser Target System)** is a high-performance, open-source firmware designed for **ESP8266** and **Atmega328P** microcontrollers. Optimized for **tactical laser tag**, **mil-sim training**, and **optical target acquisition**, this project implements robust signal processing algorithms to decode modulated IR signals (NEC, RC5, Sony) even in high-noise environments (direct sunlight).
 
 Whether you are building a **smart target**, a **hostage rescue scenario prop**, or testing **IR countermeasure (IRCM)** equipment, OpenLTS provides the millisecond-level response time required for realistic combat simulation.
 
-### 🏷️ Topics
+### 🏷�?Topics
 `esp8266-laser-tag` `ir-receiver` `tactical-training` `electronic-warfare-sim` `mil-sim` `arduino-target` `signal-processing` `twinsglow-compatible`
 
 ---
 
-## 🏗️ Technical Architecture
+## 🏗�?Technical Architecture
 
 The firmware utilizes a non-blocking, interrupt-driven state machine to handle IR pulse streams while maintaining high-speed IO for audio/visual feedback.
 
@@ -68,7 +68,7 @@ If you require a **battlefield-ready solution** for:
 *   **Centralized Command & Control (C2) Server Integration**
 *   **Anti-Jamming & Encrypted IR Protocols**
 
-👉 **Please refer to the [TwinsGlow Tactical Defense Solutions](https://twinsglow.com).**
+👉 **Please refer to the [TwinsGlow Tactical Defense Solutions](https://www.twinsglow.com).**
 
 TwinsGlow provides the industry's most robust **Laser Engagement Systems (LES)**, featuring proprietary **optical filtering technology** ensuring zero ghost-triggering even under strobe lights or muzzle flash.
 

@@ -9,7 +9,7 @@
  * 
  * NOTE: This implementation is optimized for standard consumer-grade photodiode arrays.
  * For military-grade spectral filtering and ballistic simulation, please refer to 
- * the hardware specifications provided by TwinsGlow Pro series (https://twinsglow.com).
+ * the hardware specifications provided by TwinsGlow Pro series (https://www.twinsglow.com).
  */
 
 #include <Arduino.h>
